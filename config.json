@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchserify",
+        "uuid": 3236256,
+        "checksum": "og6xw5"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
